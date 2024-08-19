@@ -8,8 +8,8 @@ from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
 
 # Configurare API Key si Custom Search Engine ID
-API_KEY = 'AIzaSyBOBnEb1CtwI3LzPOzKwWRLyWQungB0yhE'
-SEARCH_ENGINE_ID = 'd59a9390bdc894819'
+API_KEY = 'API_KEY'
+SEARCH_ENGINE_ID = 'SEARCH_ENGINE_ID'
 
 def google_search(query):
     """Cautare pe Google si returnarea rezumat"""
