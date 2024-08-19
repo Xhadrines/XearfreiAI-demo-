@@ -1,0 +1,12 @@
+gTTS
+ollama-python
+requests
+beautifulsoup4
+google-api-python-client
+openai-whisper
+SpeechRecognition
+pygame
+pyaudio
+tkinter
+langchain
+langchain_community
